@@ -41,3 +41,4 @@ Icon
 packages
 *.suo
 *.user
+MvcMusicStore/App_Data/MvcMusicStore.sdf
